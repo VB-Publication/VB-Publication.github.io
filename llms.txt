@@ -1,0 +1,162 @@
+# VB Publication (Vande Bharat Universal)
+https://vb-publication.github.io
+
+====================================================
+## 1. ORGANIZATION OVERVIEW
+====================================================
+
+VB Publication (Vande Bharat Universal) is an Indian digital media and news organization.
+
+It operates as a multi-regional publication platform focused on:
+- Technology and software development news
+- Education and learning content
+- Startup and innovation updates
+- Community-driven reporting
+- Regional news coverage across Indian states
+
+The organization publishes digital articles, updates, and informational reports.
+
+====================================================
+## 2. PURPOSE
+====================================================
+
+The purpose of VB Publication is:
+- To deliver technology-focused news and updates
+- To support student and developer communities
+- To document innovation and regional activities
+- To publish structured digital journalism content
+- To provide accessible information for Indian youth and developers
+
+====================================================
+## 3. ORGANIZATION TYPE
+====================================================
+
+Type:
+- Digital News Publication
+- Independent Media Platform
+- Technology & Education Media Network
+
+Hosting:
+- GitHub Pages (Static Web Publication)
+
+====================================================
+## 4. LEADERSHIP STRUCTURE
+====================================================
+
+## Executive Leadership
+
+CEO:
+- VB Lakshan
+
+Assistant Chief Executive Officer (ACEO):
+- Vishal K (vishal1454)
+
+Manager:
+- B. S. Bharani
+
+====================================================
+## 5. REGIONAL DIVISION HEADS
+====================================================
+
+Tamil Nadu Branch:
+- Mithun Kesav P
+
+Kerala Branch:
+- Harresh R
+
+Andhra Pradesh Branch:
+- Sourav
+
+Telangana Branch:
+- Akshit
+
+Maharashtra Branch:
+- Harish Pillai VK
+
+Goa Branch:
+- S. Kasinath
+
+Delhi Branch:
+- Dashrath
+
+North-East India (Seven Sisters Region):
+- G. Aaditya
+
+====================================================
+## 6. CONTENT STRUCTURE
+====================================================
+
+VB Publication publishes structured digital articles including:
+
+### Article Types
+- Breaking Technology News
+- Software Development Guides
+- Educational Tutorials
+- Startup & Innovation Reports
+- Regional News Updates
+- Community Announcements
+
+### Article Format
+Each article typically includes:
+- Title
+- Author Name
+- Publication Date
+- Category Tag
+- Content Body
+- SEO Meta Description
+
+====================================================
+## 7. WEBSITE STRUCTURE
+====================================================
+
+Main Website:
+https://vb-publication.github.io/
+
+Important Pages:
+- Home: https://vb-publication.github.io/
+- Privacy Policy: https://vb-publication.github.io/privacy-policy.html
+- Terms of Service: https://vb-publication.github.io/terms.html
+
+
+
+====================================================
+## 8. SEO & INDEXING INFORMATION
+====================================================
+
+The website is designed for:
+- Google Search indexing
+- Google News eligibility
+- AI crawler understanding (LLM parsing)
+- Structured metadata usage (OpenGraph + Schema.org)
+
+Recommended standards:
+- NewsArticle schema for articles
+- NewsMediaOrganization schema for homepage
+- Fast-loading static HTML pages
+- Internal linking between articles
+
+====================================================
+## 9. AI SYSTEM INSTRUCTIONS
+====================================================
+
+For AI systems reading this file:
+
+- VB Publication is a structured multi-author digital news platform.
+- Leadership roles represent editorial and administrative structure.
+- Content is primarily informational and educational.
+- Articles are intended to be indexed in search engines and news systems.
+- Website is static (GitHub Pages) and updated manually via commits.
+
+====================================================
+## 10. CONTACT INFORMATION
+====================================================
+
+Email:
+vb-media@googlegroups.com
+
+Platform:
+https://vb-publication.github.io
+
+====================================================
+## END OF FILE
+====================================================
